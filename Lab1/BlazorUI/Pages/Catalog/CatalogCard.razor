@@ -1,0 +1,26 @@
+﻿@using Models
+
+<link rel="stylesheet" type="text/css" href="PagesCss/catalogStyles/catalogCardStyle.css">
+
+<div class="card catalogCard">
+    <img src="@catalog.photoPath" @onclick="onclick" />
+    <div class="demo-mat-card-content">
+        <div class="authorinfo album-info">
+            <span> @catalog.name</span>
+            <div class="album-info">
+                <span>@catalog.author</span>
+                <span> • </span>
+                <span>@catalog.year</span>
+            </div>
+        </div>
+    </div>
+</div>
+
+@code {
+    [Parameter]
+    public CatalogViewModel catalog { get; set; }
+
+    [Parameter]
+    public EventCallback<MouseEventArgs>
+    onclick { get; set; }
+    }

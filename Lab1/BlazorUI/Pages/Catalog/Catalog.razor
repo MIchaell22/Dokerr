@@ -1,0 +1,69 @@
+﻿@page "/Catalogs/{CatalogId:int}"
+@using Models
+@using Services
+@using Interfaces.IServices
+@inject MusicService musicService
+@inject ICatalogService catalogService
+
+<link rel="stylesheet" type="text/css" href="PagesCss/catalogStyles/catalogStyle.css">
+
+@if (string.IsNullOrEmpty(ErrorMessage) && catalog != null)
+{
+<div class="d-flex flex-column">
+    <div class="d-flex flex-row">
+        <img src="@catalog.photoPath" />
+        <div>
+            <h2><b>@catalog.name.ToUpper()</b></h2>
+            <h4>Каталог • @catalog.year</h4>
+            <h4><u>Автор</u>: @catalog.author</h4>
+        </div>
+    </div>
+    @if (MusicList != null)
+    {
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Year</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var music in MusicList)
+            {
+            <tr>
+                <td><a href="/Music/@music.id">@music.name</a></td>
+                <td>@music.year</td>
+            </tr>
+            }
+        </tbody>
+    </table>
+    }
+</div>
+}
+else
+{
+<p><h1>@ErrorMessage</h1></p>
+}
+
+@code {
+    CatalogViewModel catalog;
+    IEnumerable<MusicViewModel>
+    MusicList;
+    string ErrorMessage;
+
+    protected override async Task OnInitializedAsync()
+    {
+    try
+    {
+   // catalog = await catalogService.GetСatalogAsync(СatalogId);
+    //MusicList = await musicService.GetAllMusicByСatalogAsync(СatalogId);
+    }
+    catch (HttpRequestException e)
+    {
+    ErrorMessage = e.Message;
+    }
+    }
+
+    [Parameter]
+    public int СatalogId { get; set; }
+    }

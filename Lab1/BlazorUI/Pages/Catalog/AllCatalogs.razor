@@ -1,0 +1,37 @@
+﻿@page "/Catalogs"
+@using BlazorUI.Models
+@using BlazorUI.Interfaces.IServices
+@using Microsoft.AspNetCore.Components
+
+@inject ICatalogService catalogService
+@inject NavigationManager NavigationManager
+
+<h1>Catalogs</h1>
+<div class="catalogList">
+    @if (catalogs == null)
+    {
+    <p><em>Loading...</em></p>
+    }
+    else
+    {
+    foreach (var catalog in catalogs)
+    {
+    <CatalogCard catalog=@catalog @onclick="() => ToCatalog(catalog.id)"></CatalogCard>
+    }
+    }
+</div>
+
+@code {
+    private IEnumerable<CatalogViewModel>
+    catalogs;
+
+    protected override async Task OnInitializedAsync()
+    {
+    catalogs = await catalogService.GetCatalogsAsync();
+    }
+
+    private void ToCatalog(int catalogId)
+    {
+    NavigationManager.NavigateTo($"/Catalogs/{catalogId}");
+    }
+    }
