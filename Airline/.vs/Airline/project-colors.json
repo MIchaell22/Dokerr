@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e98fc50b-15c6-476a-8c82-f773125c61f0": {
+      "ProjectGuid": "e98fc50b-15c6-476a-8c82-f773125c61f0",
+      "DisplayName": "Airline",
+      "ColorIndex": 0
+    },
+    "d14f1162-b320-4990-85f2-6a57233f2b98": {
+      "ProjectGuid": "d14f1162-b320-4990-85f2-6a57233f2b98",
+      "DisplayName": "AirlineUI",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

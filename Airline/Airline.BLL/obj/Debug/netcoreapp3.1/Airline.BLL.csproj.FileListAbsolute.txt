@@ -1,0 +1,61 @@
+C:\Users\пк\source\repos\Airline\Airline.BLL\bin\Debug\netcoreapp3.1\Airline.BLL.deps.json
+C:\Users\пк\source\repos\Airline\Airline.BLL\bin\Debug\netcoreapp3.1\Airline.BLL.dll
+C:\Users\пк\source\repos\Airline\Airline.BLL\bin\Debug\netcoreapp3.1\Airline.BLL.pdb
+C:\Users\пк\source\repos\Airline\Airline.BLL\bin\Debug\netcoreapp3.1\Airline.DAL.dll
+C:\Users\пк\source\repos\Airline\Airline.BLL\bin\Debug\netcoreapp3.1\Airline.DAL.pdb
+C:\Users\пк\source\repos\Airline\Airline.BLL\obj\Debug\netcoreapp3.1\Airline.BLL.csprojAssemblyReference.cache
+C:\Users\пк\source\repos\Airline\Airline.BLL\obj\Debug\netcoreapp3.1\Airline.BLL.AssemblyInfoInputs.cache
+C:\Users\пк\source\repos\Airline\Airline.BLL\obj\Debug\netcoreapp3.1\Airline.BLL.AssemblyInfo.cs
+C:\Users\пк\source\repos\Airline\Airline.BLL\obj\Debug\netcoreapp3.1\Airline.BLL.csproj.CopyComplete
+C:\Users\пк\source\repos\Airline\Airline.BLL\obj\Debug\netcoreapp3.1\Airline.BLL.dll
+C:\Users\пк\source\repos\Airline\Airline.BLL\obj\Debug\netcoreapp3.1\Airline.BLL.pdb
+C:\Users\пк\Desktop\Airline\Airline.BLL\bin\Debug\netcoreapp3.1\Airline.BLL.deps.json
+C:\Users\пк\Desktop\Airline\Airline.BLL\bin\Debug\netcoreapp3.1\Airline.BLL.dll
+C:\Users\пк\Desktop\Airline\Airline.BLL\bin\Debug\netcoreapp3.1\Airline.BLL.pdb
+C:\Users\пк\Desktop\Airline\Airline.BLL\bin\Debug\netcoreapp3.1\Airline.DAL.dll
+C:\Users\пк\Desktop\Airline\Airline.BLL\bin\Debug\netcoreapp3.1\Airline.DAL.pdb
+C:\Users\пк\Desktop\Airline\Airline.BLL\obj\Debug\netcoreapp3.1\Airline.BLL.csprojAssemblyReference.cache
+C:\Users\пк\Desktop\Airline\Airline.BLL\obj\Debug\netcoreapp3.1\Airline.BLL.AssemblyInfoInputs.cache
+C:\Users\пк\Desktop\Airline\Airline.BLL\obj\Debug\netcoreapp3.1\Airline.BLL.AssemblyInfo.cs
+C:\Users\пк\Desktop\Airline\Airline.BLL\obj\Debug\netcoreapp3.1\Airline.BLL.csproj.CopyComplete
+C:\Users\пк\Desktop\Airline\Airline.BLL\obj\Debug\netcoreapp3.1\Airline.BLL.dll
+C:\Users\пк\Desktop\Airline\Airline.BLL\obj\Debug\netcoreapp3.1\Airline.BLL.pdb
+D:\oop practic\Airline\Airline.BLL\bin\Debug\netcoreapp3.1\Airline.BLL.deps.json
+D:\oop practic\Airline\Airline.BLL\bin\Debug\netcoreapp3.1\Airline.BLL.dll
+D:\oop practic\Airline\Airline.BLL\bin\Debug\netcoreapp3.1\Airline.BLL.pdb
+D:\oop practic\Airline\Airline.BLL\bin\Debug\netcoreapp3.1\Airline.DAL.dll
+D:\oop practic\Airline\Airline.BLL\bin\Debug\netcoreapp3.1\Airline.DAL.pdb
+D:\oop practic\Airline\Airline.BLL\obj\Debug\netcoreapp3.1\Airline.BLL.AssemblyInfoInputs.cache
+D:\oop practic\Airline\Airline.BLL\obj\Debug\netcoreapp3.1\Airline.BLL.AssemblyInfo.cs
+D:\oop practic\Airline\Airline.BLL\obj\Debug\netcoreapp3.1\Airline.BLL.csproj.CoreCompileInputs.cache
+D:\oop practic\Airline\Airline.BLL\obj\Debug\netcoreapp3.1\Airline.BLL.csproj.CopyComplete
+D:\oop practic\Airline\Airline.BLL\obj\Debug\netcoreapp3.1\Airline.BLL.dll
+D:\oop practic\Airline\Airline.BLL\obj\Debug\netcoreapp3.1\Airline.BLL.pdb
+D:\oop practic\Airline\Airline.BLL\obj\Debug\netcoreapp3.1\Airline.BLL.csproj.AssemblyReference.cache
+D:\oop practic\Airline\Airline.BLL\obj\Debug\netcoreapp3.1\Airline.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\2 курс\oop practic\Airline\Airline.BLL\bin\Debug\netcoreapp3.1\Airline.BLL.deps.json
+D:\2 курс\oop practic\Airline\Airline.BLL\bin\Debug\netcoreapp3.1\Airline.BLL.dll
+D:\2 курс\oop practic\Airline\Airline.BLL\bin\Debug\netcoreapp3.1\Airline.BLL.pdb
+D:\2 курс\oop practic\Airline\Airline.BLL\bin\Debug\netcoreapp3.1\Airline.DAL.dll
+D:\2 курс\oop practic\Airline\Airline.BLL\bin\Debug\netcoreapp3.1\Airline.DAL.pdb
+D:\2 курс\oop practic\Airline\Airline.BLL\obj\Debug\netcoreapp3.1\Airline.BLL.csproj.AssemblyReference.cache
+D:\2 курс\oop practic\Airline\Airline.BLL\obj\Debug\netcoreapp3.1\Airline.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\2 курс\oop practic\Airline\Airline.BLL\obj\Debug\netcoreapp3.1\Airline.BLL.AssemblyInfoInputs.cache
+D:\2 курс\oop practic\Airline\Airline.BLL\obj\Debug\netcoreapp3.1\Airline.BLL.AssemblyInfo.cs
+D:\2 курс\oop practic\Airline\Airline.BLL\obj\Debug\netcoreapp3.1\Airline.BLL.csproj.CoreCompileInputs.cache
+D:\2 курс\oop practic\Airline\Airline.BLL\obj\Debug\netcoreapp3.1\Airline.BLL.csproj.CopyComplete
+D:\2 курс\oop practic\Airline\Airline.BLL\obj\Debug\netcoreapp3.1\Airline.BLL.dll
+D:\2 курс\oop practic\Airline\Airline.BLL\obj\Debug\netcoreapp3.1\Airline.BLL.pdb
+C:\Users\User\Desktop\Airline\Airline.BLL\bin\Debug\netcoreapp3.1\Airline.BLL.deps.json
+C:\Users\User\Desktop\Airline\Airline.BLL\bin\Debug\netcoreapp3.1\Airline.BLL.dll
+C:\Users\User\Desktop\Airline\Airline.BLL\bin\Debug\netcoreapp3.1\Airline.BLL.pdb
+C:\Users\User\Desktop\Airline\Airline.BLL\bin\Debug\netcoreapp3.1\Airline.DAL.dll
+C:\Users\User\Desktop\Airline\Airline.BLL\bin\Debug\netcoreapp3.1\Airline.DAL.pdb
+C:\Users\User\Desktop\Airline\Airline.BLL\obj\Debug\netcoreapp3.1\Airline.BLL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Airline\Airline.BLL\obj\Debug\netcoreapp3.1\Airline.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Airline\Airline.BLL\obj\Debug\netcoreapp3.1\Airline.BLL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Airline\Airline.BLL\obj\Debug\netcoreapp3.1\Airline.BLL.AssemblyInfo.cs
+C:\Users\User\Desktop\Airline\Airline.BLL\obj\Debug\netcoreapp3.1\Airline.BLL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Airline\Airline.BLL\obj\Debug\netcoreapp3.1\Airline.BLL.csproj.CopyComplete
+C:\Users\User\Desktop\Airline\Airline.BLL\obj\Debug\netcoreapp3.1\Airline.BLL.dll
+C:\Users\User\Desktop\Airline\Airline.BLL\obj\Debug\netcoreapp3.1\Airline.BLL.pdb

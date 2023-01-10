@@ -1,0 +1,59 @@
+C:\Users\пк\source\repos\Airline\Airline.DAL\bin\Debug\netcoreapp3.1\Airline.DAL.deps.json
+C:\Users\пк\source\repos\Airline\Airline.DAL\bin\Debug\netcoreapp3.1\Airline.DAL.dll
+C:\Users\пк\source\repos\Airline\Airline.DAL\obj\Debug\netcoreapp3.1\Airline.DAL.AssemblyInfoInputs.cache
+C:\Users\пк\source\repos\Airline\Airline.DAL\obj\Debug\netcoreapp3.1\Airline.DAL.AssemblyInfo.cs
+C:\Users\пк\source\repos\Airline\Airline.DAL\obj\Debug\netcoreapp3.1\Airline.DAL.csprojAssemblyReference.cache
+C:\Users\пк\source\repos\Airline\Airline.DAL\bin\Debug\netcoreapp3.1\Airline.DAL.runtimeconfig.json
+C:\Users\пк\source\repos\Airline\Airline.DAL\bin\Debug\netcoreapp3.1\Airline.DAL.runtimeconfig.dev.json
+C:\Users\пк\source\repos\Airline\Airline.DAL\bin\Debug\netcoreapp3.1\Airline.DAL.pdb
+C:\Users\пк\source\repos\Airline\Airline.DAL\obj\Debug\netcoreapp3.1\Airline.DAL.dll
+C:\Users\пк\source\repos\Airline\Airline.DAL\obj\Debug\netcoreapp3.1\Airline.DAL.pdb
+C:\Users\пк\Desktop\Airline\Airline.DAL\bin\Debug\netcoreapp3.1\Airline.DAL.deps.json
+C:\Users\пк\Desktop\Airline\Airline.DAL\bin\Debug\netcoreapp3.1\Airline.DAL.runtimeconfig.json
+C:\Users\пк\Desktop\Airline\Airline.DAL\bin\Debug\netcoreapp3.1\Airline.DAL.runtimeconfig.dev.json
+C:\Users\пк\Desktop\Airline\Airline.DAL\bin\Debug\netcoreapp3.1\Airline.DAL.dll
+C:\Users\пк\Desktop\Airline\Airline.DAL\bin\Debug\netcoreapp3.1\Airline.DAL.pdb
+C:\Users\пк\Desktop\Airline\Airline.DAL\obj\Debug\netcoreapp3.1\Airline.DAL.csprojAssemblyReference.cache
+C:\Users\пк\Desktop\Airline\Airline.DAL\obj\Debug\netcoreapp3.1\Airline.DAL.AssemblyInfoInputs.cache
+C:\Users\пк\Desktop\Airline\Airline.DAL\obj\Debug\netcoreapp3.1\Airline.DAL.AssemblyInfo.cs
+C:\Users\пк\Desktop\Airline\Airline.DAL\obj\Debug\netcoreapp3.1\Airline.DAL.dll
+C:\Users\пк\Desktop\Airline\Airline.DAL\obj\Debug\netcoreapp3.1\Airline.DAL.pdb
+D:\oop practic\Airline\Airline.DAL\bin\Debug\netcoreapp3.1\Airline.DAL.deps.json
+D:\oop practic\Airline\Airline.DAL\bin\Debug\netcoreapp3.1\Airline.DAL.runtimeconfig.json
+D:\oop practic\Airline\Airline.DAL\bin\Debug\netcoreapp3.1\Airline.DAL.runtimeconfig.dev.json
+D:\oop practic\Airline\Airline.DAL\bin\Debug\netcoreapp3.1\Airline.DAL.dll
+D:\oop practic\Airline\Airline.DAL\bin\Debug\netcoreapp3.1\Airline.DAL.pdb
+D:\oop practic\Airline\Airline.DAL\obj\Debug\netcoreapp3.1\Airline.DAL.AssemblyInfoInputs.cache
+D:\oop practic\Airline\Airline.DAL\obj\Debug\netcoreapp3.1\Airline.DAL.AssemblyInfo.cs
+D:\oop practic\Airline\Airline.DAL\obj\Debug\netcoreapp3.1\Airline.DAL.csproj.CoreCompileInputs.cache
+D:\oop practic\Airline\Airline.DAL\obj\Debug\netcoreapp3.1\Airline.DAL.dll
+D:\oop practic\Airline\Airline.DAL\obj\Debug\netcoreapp3.1\Airline.DAL.pdb
+D:\oop practic\Airline\Airline.DAL\obj\Debug\netcoreapp3.1\Airline.DAL.genruntimeconfig.cache
+D:\oop practic\Airline\Airline.DAL\obj\Debug\netcoreapp3.1\Airline.DAL.csproj.AssemblyReference.cache
+D:\oop practic\Airline\Airline.DAL\obj\Debug\netcoreapp3.1\Airline.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\2 курс\oop practic\Airline\Airline.DAL\bin\Debug\netcoreapp3.1\Airline.DAL.deps.json
+D:\2 курс\oop practic\Airline\Airline.DAL\bin\Debug\netcoreapp3.1\Airline.DAL.runtimeconfig.json
+D:\2 курс\oop practic\Airline\Airline.DAL\bin\Debug\netcoreapp3.1\Airline.DAL.runtimeconfig.dev.json
+D:\2 курс\oop practic\Airline\Airline.DAL\bin\Debug\netcoreapp3.1\Airline.DAL.dll
+D:\2 курс\oop practic\Airline\Airline.DAL\bin\Debug\netcoreapp3.1\Airline.DAL.pdb
+D:\2 курс\oop practic\Airline\Airline.DAL\obj\Debug\netcoreapp3.1\Airline.DAL.csproj.AssemblyReference.cache
+D:\2 курс\oop practic\Airline\Airline.DAL\obj\Debug\netcoreapp3.1\Airline.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\2 курс\oop practic\Airline\Airline.DAL\obj\Debug\netcoreapp3.1\Airline.DAL.AssemblyInfoInputs.cache
+D:\2 курс\oop practic\Airline\Airline.DAL\obj\Debug\netcoreapp3.1\Airline.DAL.AssemblyInfo.cs
+D:\2 курс\oop practic\Airline\Airline.DAL\obj\Debug\netcoreapp3.1\Airline.DAL.csproj.CoreCompileInputs.cache
+D:\2 курс\oop practic\Airline\Airline.DAL\obj\Debug\netcoreapp3.1\Airline.DAL.dll
+D:\2 курс\oop practic\Airline\Airline.DAL\obj\Debug\netcoreapp3.1\Airline.DAL.pdb
+D:\2 курс\oop practic\Airline\Airline.DAL\obj\Debug\netcoreapp3.1\Airline.DAL.genruntimeconfig.cache
+C:\Users\User\Desktop\Airline\Airline.DAL\bin\Debug\netcoreapp3.1\Airline.DAL.deps.json
+C:\Users\User\Desktop\Airline\Airline.DAL\bin\Debug\netcoreapp3.1\Airline.DAL.runtimeconfig.json
+C:\Users\User\Desktop\Airline\Airline.DAL\bin\Debug\netcoreapp3.1\Airline.DAL.runtimeconfig.dev.json
+C:\Users\User\Desktop\Airline\Airline.DAL\bin\Debug\netcoreapp3.1\Airline.DAL.dll
+C:\Users\User\Desktop\Airline\Airline.DAL\bin\Debug\netcoreapp3.1\Airline.DAL.pdb
+C:\Users\User\Desktop\Airline\Airline.DAL\obj\Debug\netcoreapp3.1\Airline.DAL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Airline\Airline.DAL\obj\Debug\netcoreapp3.1\Airline.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Airline\Airline.DAL\obj\Debug\netcoreapp3.1\Airline.DAL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Airline\Airline.DAL\obj\Debug\netcoreapp3.1\Airline.DAL.AssemblyInfo.cs
+C:\Users\User\Desktop\Airline\Airline.DAL\obj\Debug\netcoreapp3.1\Airline.DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Airline\Airline.DAL\obj\Debug\netcoreapp3.1\Airline.DAL.dll
+C:\Users\User\Desktop\Airline\Airline.DAL\obj\Debug\netcoreapp3.1\Airline.DAL.pdb
+C:\Users\User\Desktop\Airline\Airline.DAL\obj\Debug\netcoreapp3.1\Airline.DAL.genruntimeconfig.cache

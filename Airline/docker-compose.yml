@@ -1,0 +1,10 @@
+version: '3.4'
+
+services:
+  airline:
+   
+    image: ${DOCKER_REGISTRY-}airline
+    build:
+      context: .
+      dockerfile: Airline\Dockerfile
+      
